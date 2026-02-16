@@ -113,7 +113,7 @@ See **result_graph.png** in the repository for graphical comparison of results.
 ## 📁 Repository Structure
 
 Sampling_Assignment  
-│── Sampling_Assignment.ipynb  
+│── Sampling_Assignment.py  
 │── README.md  
 │── result_graph.png  
 
